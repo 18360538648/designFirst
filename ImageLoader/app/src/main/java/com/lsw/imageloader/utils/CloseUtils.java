@@ -1,4 +1,4 @@
-package com.lsw.imageloader;
+package com.lsw.imageloader.utils;
 
 import java.io.Closeable;
 import java.io.IOException;

@@ -1,7 +1,9 @@
-package com.lsw.imageloader;
+package com.lsw.imageloader.cache;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+
+import com.lsw.imageloader.utils.CloseUtils;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

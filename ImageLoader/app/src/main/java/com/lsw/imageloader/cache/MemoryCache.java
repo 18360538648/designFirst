@@ -1,4 +1,4 @@
-package com.lsw.imageloader;
+package com.lsw.imageloader.cache;
 
 import android.graphics.Bitmap;
 import android.util.LruCache;
